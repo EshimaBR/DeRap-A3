@@ -34,6 +34,6 @@ Não necessita de arquivos adicionais para rodar.
 ## ⚠️ Possíveis Alertas no Uso
 
 **[ERRO] Este arquivo está com uma codificação fora da minha biblioteca de assinaturas. Contate o Dev.**
-Isso significa que o script verificou a estrutura inicial e confirmou que a proteção usada não foi mapeada na sua atual biblioteca de assinaturas do DeRep v1.1 (ela não tem a assinatura `_\0raP`). Neste caso, não há nada de errado, a proteção apenas evoluiu ou é de um ofuscador completamente diferente. Em caso de dúvidas, contate o desenvolvedor para expandir a biblioteca de reconhecimento.
+Isso significa que o script verificou a estrutura inicial e confirmou que a proteção usada não foi mapeada. Neste caso, não há nada de errado, a proteção apenas evoluiu ou é de um ofuscador completamente diferente. Em caso de dúvidas, contate o desenvolvedor.
 
 ---
